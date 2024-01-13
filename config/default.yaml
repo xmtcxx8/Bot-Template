@@ -1,10 +1,10 @@
 keyword: keyword #single word here
 framework:
-  developer: #your id here
-  language: en
+  developer: #15761
+  language: ar
   login:
-    email:
-    password:
+    email: x@x.x
+    password: xxxxxx
     onlineState: 1
 
   join:
